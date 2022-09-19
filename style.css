@@ -1,0 +1,27 @@
+body {
+  background-color: #9c0f48;
+}
+
+img {
+  width: 10rem;
+}
+
+hr {
+  height: 0;
+  width: 20%;
+  border-style: dotted none none;
+  border-width: 0.3rem;
+  border-color: darkgrey;
+}
+
+h3,
+label,
+a {
+  color: rgb(8, 231, 251);
+}
+
+h1,
+p,
+li {
+  color: floralwhite;
+}
